@@ -1,0 +1,22 @@
+#carrousel{
+    position:relative;
+    height:500px;
+    width:100%;
+    margin:auto;
+}
+
+#carrousel img{
+
+    top:0;
+    left:0;
+    height:500px;
+    width:100%;
+}
+
+.next{
+    float: right;
+}
+
+.prev{
+    float: left;
+}
